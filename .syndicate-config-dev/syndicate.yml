@@ -1,0 +1,16 @@
+account_id: '890742610830'
+deploy_target_bucket: syndicate-education-platform-custom-sandbox-artifacts-6675/13f4fd4f/task06
+expiration: 2025-04-04 17:49:43.787130+00:00
+extended_prefix_mode: true
+project_path: C:\Users\sourabh_atroliya\Desktop\AWS\demo
+region: eu-west-1
+resources_prefix: cmtr-13f4fd4f-
+tags:
+  run_id: JAP-11
+  run_type: stm
+  type: user
+  user_id: 13f4fd4f
+temp_aws_access_key_id: ASIA46ZDFTOHNZC7VNLA
+temp_aws_secret_access_key: b4/f0XJwvrA+EDUY2qVtb1bIrEd7nasE6JfRkaCy
+temp_aws_session_token: IQoJb3JpZ2luX2VjEKH//////////wEaCXVzLWVhc3QtMSJHMEUCIQDbaBDKCktwBpprqZ4ufK6YMvhRxx0mFGKwxMBRU//nqQIgMoHqpGEiyzt3OHEh878zZhNI/d1ByrMRcNCS8nryQIMq2QIIGhAAGgw4OTA3NDI2MTA4MzAiDI/2IGuFOLyzp35dVyq2AhTmqYMdMEebjSNI8joWmQfJeAPwO4c/GEKml23hMAypO//w2m0UZUfLNBe3VsNhiV8EztxnbECy1I+s0FE1swUT5+F1SQPdPKLiZnrhwOXGXe/JfBCys4MvsXkYEcyW04f9EPl8RCdOToQuyPLUobMvKcCqA5EE5rkNi68cSPTD6wnkdaERgxW3SqUN0jYIn3+920fgxWrFUeS3ZyZ/txm3a10obuyExARcqSxepb77KyRppU5VxqYznwjgsMDRISyeYVjVEuFq3urJCgHR9XMcUoEz6jBsqUZQr5O0FJ2nDqelKqi7G7wOPP5sT4upYqACRo/vKFVFszBt7zZ092Yj17Ad8s8caT/1G+HU34zJ+QcaD996xKIA0h3kl+ihw8JzrNjL2W3/vFf4pbpvHU6SCodZfOww8Z/AvwY6nQE2HiwlQTYAzDVRChWCiDGrw9nheZhA4oV9yrO2JnLvthP6WoBSr93LNjd3gA+vIODIxNvEbJWdkDm7PS9rbn2/c7LYbVH1U9j62B47K+qnBbmLd4K9j/5AXbLX1PMvxm3K3H46Ps6oNQYKXUz1TYT8I3nyVfyL5PTMu8/PoFiURaUlln/lDf+uR4HNFowa5gbDiUXusk+r22LnhtFz
+use_temp_creds: false
